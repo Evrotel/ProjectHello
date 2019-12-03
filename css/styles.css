@@ -1,6 +1,11 @@
 body {
-  padding: 0;
+  padding: 10;
   margin: 20px;
+  background:yellow;
+  font-size: 20px;
+  margin:100px;
+ /* background-image: url("https://s1.1zoom.ru/big0/640/World_of_Tanks_Tanks_WZ-111_5A_Chinese_531048_1280x720.jpg");
+*/
 }
 
 .postWrapper {
@@ -41,6 +46,7 @@ div {
 }
 
 .comment-text {
+  color: #f7f7f7;
   margin: 0;
   font-size: 1.25rem;
   word-wrap: break-word;
